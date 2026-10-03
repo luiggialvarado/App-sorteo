@@ -1,0 +1,6 @@
+CREATE DATABASE sorteo;
+USE sorteo;
+
+SHOW TABLES;
+
+SELECT * FROM premio;
