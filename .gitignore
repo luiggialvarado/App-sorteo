@@ -1,0 +1,5 @@
+# Salida de compilación de Maven (se regenera sola)
+target/
+
+# Archivos que crea macOS
+.DS_Store
